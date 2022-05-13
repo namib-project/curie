@@ -1,5 +1,6 @@
 [![pub package](https://img.shields.io/pub/v/curie.svg)](https://pub.dev/packages/curie)
 [![Build](https://github.com/namib-project/curie/actions/workflows/ci.yml/badge.svg)](https://github.com/namib-project/curie/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/namib-project/curie/branch/main/graph/badge.svg?token=76OBNOVL60)](https://codecov.io/gh/namib-project/curie)
 
 # curie
 
