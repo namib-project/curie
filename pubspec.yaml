@@ -1,5 +1,5 @@
 name: curie
-description: Implementation of the W3C CURIE Syntax 1.0 in Dart.
+description: Implementation of the W3C CURIE Syntax 1.0. Supports prefix mapping as well as the expansion of CURIEs and the shrinking of IRIs.
 version: 0.1.0
 homepage: https://github.com/namib-project/curie
 
