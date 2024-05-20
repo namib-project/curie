@@ -47,16 +47,6 @@ test:
       cobertura:
         - coverage.xml
 
-code_quality:
-  stage: test
-  script:
-    - dart run dart_code_metrics:metrics analyze lib -r gitlab > quality.json
-  artifacts:
-    when: always
-    reports:
-      codequality:
-        - quality.json
-
 code_navigation:
   stage: test
   allow_failure: true
